@@ -1,5 +1,6 @@
 def add (x,y)
-    pass
+    #pass
+    return x +y
 def sub (x,y)
     pass
 def div (x,y)
