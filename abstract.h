@@ -5,7 +5,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-
+#Add by nam today
 /* === Object Protocol ================================================== */
 
 /* Implemented elsewhere:
